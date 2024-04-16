@@ -1,0 +1,27 @@
+.scroll-container {
+    width: 100%;
+    overflow-x: auto; 
+    white-space: nowrap; 
+  }
+  
+  .scroll-content {
+    display: inline-block; 
+  }
+  
+  .scroll-content img {
+    max-width: 100%; 
+    height: auto; 
+    display: inline-block; 
+    vertical-align: top; 
+  }
+  img{
+align-content: center;
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
+  
+  }
